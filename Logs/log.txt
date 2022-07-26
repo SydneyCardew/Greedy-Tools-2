@@ -1,0 +1,638 @@
+001 - Initialising game. 4 Players.
+170 cards in play.
+
+002 - Tavern Phase, 1st turn.
+
+003 - Set out a tavern containing 8 peons, 4 basic adventurers and 0 advanced adventurers:
+ [Engineer, Peon, Peon, Peon, Miner, Peon, Bowdwarf, Peon, Paladin, Peon, Peon, Peon]
+
+004 - Selection order: ['Alice', 'Bob', 'Carol', 'Dan']
+
+005 - Alice bought Engineer for 40
+
+006 - Bob bought Peon for 15
+
+007 - Carol bought Peon for 15
+
+008 - Dan bought Peon for 15
+
+009 - Alice passes.
+
+010 - Bob bought Peon for 15
+
+011 - Carol bought Peon for 15
+
+012 - Dan bought Peon for 15
+
+013 - Bob passes.
+
+014 - Carol passes.
+
+015 - Dan passes.
+
+016 - 1st Tavern Phase ends.
+
+017 - Expedition Phase, 1st turn.
+
+018 - 1 Artefact added to Dungeon.
+
+019 - 4 stacks created: [<Deep Iron>, <Greater Mana Crystals>, <Crumbling Hallway>, <Echoing Shaft>]
+
+020 - Selection order: ['Dan', 'Alice', 'Bob', 'Carol']
+
+021 - Dan voids a stack of 1.
+
+022 - Alice chooses to take a stack of 3 cards:[Barrel Charge, Sovereign Mana Crystals, Magic Resistance Potion]
+
+023 - Alice takes 0 damage.
+
+024 - Alice is forced to discard [].
+
+025 - Bob chooses to take a stack of 3 cards:[Greater Mana Crystals, Choking Miasma, Curious Statuary]
+
+026 - Bob takes 1 damage.
+
+027 - Bob is forced to discard [].
+
+028 - Alice is forced to take a stack of 6 cards: [Deep Iron, The Living Darkness, Crude Reagents, Silver Bars, Exposed Machinery, Creaking Hallway]
+
+029 - Alice used Magic Resistance Potion to mitigate 3 MY damage.
+
+030 - Alice takes 2 damage.
+
+031 - Alice is forced to discard [Crude Reagents, Silver Bars, Creaking Hallway].
+
+032 - Bob chooses to take a stack of 4 cards:[Echoing Shaft, Elven Etchings, Silent Stairway, Luminant Flare]
+
+033 - Bob takes 0 damage.
+
+034 - Bob is forced to discard [Echoing Shaft, Silent Stairway].
+
+035 - Carol chooses to take a stack of 4 cards:[Gold, Sapphires, Dwarven Whiskey, Agates]
+
+036 - Carol takes 0 damage.
+
+037 - Carol is forced to discard [].
+
+038 - Alice is escaping the dungeon!
+
+039 - Alice takes 0 damage.
+
+040 - Alice is forced to discard [Refined Reagents].
+
+041 - Alice takes 0 damage.
+
+042 - Alice is forced to discard [Emeralds].
+
+043 - Bob is forced to take a stack of 6 cards: [Echoing Shaft, Tumbled Stairs, Creaking Hallway, Abandoned Workshops, Runic Defences, Aged Spirits]
+
+044 - Bob takes 1 damage.
+
+045 - Bob is forced to discard [Echoing Shaft, Tumbled Stairs, Creaking Hallway, Abandoned Workshops].
+
+046 - Carol is forced to take a stack of 6 cards: [Rubies, Summoning Circle, Looted Tavern, Blue Diamonds, Mutated Vermin, Poltergeist Activity]
+
+047 - Carol takes 2 damage.
+
+048 - Carol is forced to discard [Dwarven Whiskey, Looted Tavern, Agates].
+
+049 - Bob is escaping the dungeon!
+
+050 - Bob takes 0 damage.
+
+051 - Bob is forced to discard [Nailed Hatchway].
+
+052 - Bob takes 0 damage.
+
+053 - Bob is forced to discard [Curious Statuary].
+
+054 - Bob takes 0 damage.
+
+055 - Bob is forced to discard [].
+
+056 - Bob takes 0 damage.
+
+057 - Bob is forced to discard [Elven Etchings].
+
+058 - Carol is escaping the dungeon!
+
+059 - Carol takes 0 damage.
+
+060 - Carol is forced to discard [Trade Beads].
+
+061 - Carol takes 0 damage.
+
+062 - Carol is forced to discard [Empty Crypt].
+
+063 - Carol takes 1 damage.
+
+064 - Carol is forced to discard [Gold].
+
+065 - Carol takes 0 damage.
+
+066 - Carol is forced to discard [].
+
+067 - Dan is forced to take a stack of 6 cards: [Flooded Chambers, Dripping Chasm, Mechanical Curios, Dusty Rooms, Empty Storerooms, Reanimated Dead]
+
+068 - Dan takes 1 damage.
+
+069 - Dan is forced to discard [Dripping Chasm, Dusty Rooms, Empty Storerooms].
+
+070 - Dan chooses to take a stack of 4 cards:[Fine Wine, Philter of Bravery, Abandoned Workshops, Mithril]
+
+071 - Dan takes 0 damage.
+
+072 - Dan is forced to discard [Abandoned Workshops].
+
+073 - Dan chooses to take a stack of 4 cards:[Alarm Automaton, Dripping Chasm, Minor Relics, Scouting Bat]
+
+074 - Dan takes 0 damage.
+
+075 - Dan is forced to discard [Dripping Chasm].
+
+076 - Dan chooses to take a stack of 4 cards:[Hastily Filled Pit, Luminant Flare, Magic Resistance Potion, Amber]
+
+077 - Dan takes 0 damage.
+
+078 - Dan is forced to discard [Hastily Filled Pit].
+
+079 - Dan is escaping the dungeon!
+
+080 - Dan used Luminant Flare to mitigate 2 EN damage.
+
+081 - Dan takes 0 damage.
+
+082 - Dan is forced to discard [].
+
+083 - Dan takes 0 damage.
+
+084 - Dan is forced to discard [Mechanical Curios].
+
+085 - Dan takes 0 damage.
+
+086 - Dan is forced to discard [Collapsed Tunnel].
+
+087 - Dan takes 0 damage.
+
+088 - Dan is forced to discard [Fine Wine].
+
+089 - Dan takes 0 damage.
+
+090 - Dan is forced to discard [].
+
+091 - Recovery Phase, 1st turn.
+
+092 - Dan sells 5 items and gains 45 gold.
+
+093 - Alice sells 2 items and gains 30 gold.
+
+094 - Bob sells 4 items and gains 35 gold.
+
+095 - Carol sells 3 items and gains 35 gold.
+
+096 - Tavern Phase, 2nd turn.
+
+097 - Set out a tavern containing 4 peons, 4 basic adventurers and 4 advanced adventurers:
+ [Peon, Archmage, Fateweaver, Swordsdwarf, Deep Ranger, Peon, Medic, Paladin, Peon, Peon, Merchant Princess, Runesmith]
+
+098 - Selection order: ['Dan', 'Bob', 'Carol', 'Alice']
+
+099 - Dan bought Peon for 15
+
+100 - Bob bought Swordsdwarf for 20
+
+101 - Carol bought Peon for 15
+
+102 - Alice bought Medic for 20
+
+103 - Dan bought Paladin for 20
+
+104 - Bob bought Peon for 15
+
+105 - Carol bought Peon for 15
+
+106 - Alice passes.
+
+107 - Dan passes.
+
+108 - Bob passes.
+
+109 - Carol passes.
+
+110 - 2nd Tavern Phase ends.
+
+111 - Expedition Phase, 2nd turn.
+
+112 - 2 Artefacts added to Dungeon.
+
+113 - 4 stacks created: [<Ancient Lore>, <Philter of Bravery>, <Survivalist Traps>, <Minted Coins>]
+
+114 - Selection order: ['Dan', 'Alice', 'Bob', 'Carol']
+
+115 - Dan voids a stack of 1.
+
+116 - Alice chooses to take a stack of 3 cards:[Empty Storerooms, Porcelain, The Axe of Fhaldun]
+
+117 - Alice takes 0 damage.
+
+118 - Alice is forced to discard [Empty Storerooms].
+
+119 - Bob chooses to take a stack of 3 cards:[Ancient Lore, Oil Paintings, Opals]
+
+120 - Bob takes 0 damage.
+
+121 - Bob is forced to discard [].
+
+122 - Carol chooses to take a stack of 3 cards:[Refined Reagents, Emeralds, Curious Statuary]
+
+123 - Carol takes 0 damage.
+
+124 - Carol is forced to discard [].
+
+125 - Dan chooses to take a stack of 4 cards:[Mechanical Curios, Collapsed Tunnel, Fine Wine, Crumbling Hallway]
+
+126 - Dan used Barrel Charge to mitigate 4 ST damage.
+
+127 - Dan takes 2 damage.
+
+128 - Dan is forced to discard [Collapsed Tunnel].
+
+129 - Alice chooses to take a stack of 3 cards:[Elven Etchings, Trade Beads, Empty Crypt]
+
+130 - Alice takes 0 damage.
+
+131 - Alice is forced to discard [Empty Crypt].
+
+132 - Bob chooses to take a stack of 3 cards:[Minted Coins, Halfling Herbs, Nailed Hatchway]
+
+133 - Bob takes 0 damage.
+
+134 - Bob is forced to discard [Nailed Hatchway].
+
+135 - Carol chooses to take a stack of 4 cards:[Magic Resistance Potion, Crude Reagents, Silver Bars, Creaking Hallway]
+
+136 - Carol takes 0 damage.
+
+137 - Carol is forced to discard [Creaking Hallway].
+
+138 - Alice is escaping the dungeon!
+
+139 - Alice takes 0 damage.
+
+140 - Alice is forced to discard [Porcelain].
+
+141 - Alice takes 0 damage.
+
+142 - Alice is forced to discard [Dripping Chasm].
+
+143 - Alice takes 0 damage.
+
+144 - Alice is forced to discard [Dusty Rooms].
+
+145 - Alice takes 0 damage.
+
+146 - Alice is forced to discard [Empty Storerooms].
+
+147 - Dan chooses to take a stack of 4 cards:[Creaking Hallway, Abandoned Workshops, Dwarven Whiskey, Looted Tavern]
+
+148 - Dan takes 0 damage.
+
+149 - Dan is forced to discard [Creaking Hallway, Abandoned Workshops, Looted Tavern].
+
+150 - Carol chooses to take a stack of 5 cards:[Philter of Bravery, Star Jewels, Vengeful Spirits, Gold, Pearls]
+
+151 - Carol used Magic Resistance Potion to mitigate 3 MY damage.
+
+152 - Carol takes 3 damage.
+
+153 - Carol is forced to discard [Curious Statuary, Crude Reagents, Silver Bars].
+
+154 - Carol is escaping the dungeon!
+
+155 - Carol takes 0 damage.
+
+156 - Carol is forced to discard [Refined Reagents].
+
+157 - Carol takes 2 damage.
+
+158 - Carol is forced to discard [Emeralds, Gold, Pearls].
+
+159 - Carol takes 0 damage.
+
+160 - Carol is forced to discard [].
+
+161 - Carol takes 0 damage.
+
+162 - Carol is forced to discard [Runic Tomes].
+
+163 - Carol takes 0 damage.
+
+164 - Carol is forced to discard [Silent Stairway].
+
+165 - Bob is forced to take a stack of 6 cards: [Echoing Shaft, Silent Stairway, Echoing Shaft, Tumbled Stairs, Rogue Automatons, Platinum]
+
+166 - Bob used Luminant Flare to mitigate 2 EN damage.
+
+167 - Bob takes 1 damage.
+
+168 - Bob is forced to discard [Echoing Shaft, Silent Stairway, Echoing Shaft, Tumbled Stairs].
+
+169 - Dan is forced to take a stack of 6 cards: [Goblin Freebooters, Horrifying Tentacle, Sealed Airshaft, Welded Doorway, Scouting Bat, Mithril]
+
+170 - Dan used Philter of Bravery to mitigate 4 MA damage.
+
+171 - Dan used Magic Resistance Potion to mitigate 3 MY damage.
+
+172 - Dan takes 4 damage.
+
+173 - Dan is forced to discard [Mechanical Curios, Fine Wine, Sealed Airshaft, Welded Doorway, Dwarven Whiskey].
+
+174 - Bob is forced to take a stack of 6 cards: [Flooded Chambers, Reanimated Dead, Bottomless Pit, Minor Relics, Amber, Lesser Mana Crystals]
+
+175 - Bob takes 0 damage.
+
+176 - Bob is forced to discard [Opals, Minted Coins].
+
+177 - Dan is escaping the dungeon!
+
+178 - Dan takes 0 damage.
+
+179 - Dan is forced to discard [Aged Spirits].
+
+180 - Bob is escaping the dungeon!
+
+181 - Bob takes 0 damage.
+
+182 - Bob is forced to discard [Halfling Herbs].
+
+183 - Bob takes 2 damage.
+
+184 - Bob is forced to discard [Minor Relics, Amber].
+
+185 - Bob takes 0 damage.
+
+186 - Bob is forced to discard [].
+
+187 - Bob takes 0 damage.
+
+188 - Bob is forced to discard [].
+
+189 - Bob takes 1 damage.
+
+190 - Bob is forced to discard [].
+
+191 - Bob takes 1 damage.
+
+192 - Bob is forced to discard [].
+
+193 - Bob takes 0 damage.
+
+194 - Bob is forced to discard [Lesser Mana Crystals].
+
+195 - Recovery Phase, 2nd turn.
+
+196 - Dan sells 1 items and gains 25 gold.
+
+197 - Alice sells 4 items and gains 45 gold.
+
+198 - Bob sells 5 items and gains 105 gold.
+
+199 - Carol sells 2 items and gains 45 gold.
+
+200 - Tavern Phase, 3rd turn.
+
+201 - Set out a tavern containing 0 peons, 8 basic adventurers and 4 advanced adventurers:
+ [Dowser, Architect, Runesmith, Jack of All Trades, Arcanist, The Bastard Elf, Musketeer, Archaeologist, Thief, Accountant, Miner, Opportunist]
+
+202 - Selection order: ['Bob', 'Alice', 'Carol', 'Dan']
+
+203 - Bob bought Dowser for 25
+
+204 - Alice bought Architect for 50
+
+205 - Carol bought Runesmith for 25
+
+206 - Dan bought Archaeologist for 20
+
+207 - Bob bought Jack of All Trades for 50
+
+208 - Alice passes.
+
+209 - Carol bought Thief for 20
+
+210 - Dan bought Opportunist for 15
+
+211 - Bob bought Accountant for 20
+
+212 - Carol passes.
+
+213 - Dan passes.
+
+214 - Bob passes.
+
+215 - 3rd Tavern Phase ends.
+
+216 - Expedition Phase, 3rd turn.
+
+217 - 6 Artefacts added to Dungeon.
+
+218 - 4 stacks created: [<Rubies>, <Blue Diamonds>, <The Helm of Ghrond>, <The Emerald Gauntlets>]
+
+219 - Selection order: ['Dan', 'Alice', 'Bob', 'Carol']
+
+220 - Alice chooses to take a stack of 3 cards:[The Helm of Ghrond, Dusty Rooms, Gold]
+
+221 - Alice takes 0 damage.
+
+222 - Alice is forced to discard [Dusty Rooms].
+
+223 - Bob chooses to take a stack of 3 cards:[Blue Diamonds, Dripping Chasm, Emeralds]
+
+224 - Bob takes 0 damage.
+
+225 - Bob is forced to discard [Dripping Chasm].
+
+226 - Carol chooses to take a stack of 3 cards:[Rubies, Porcelain, Refined Reagents]
+
+227 - Carol takes 0 damage.
+
+228 - Carol is forced to discard [].
+
+229 - Dan chooses to take a stack of 4 cards:[Runic Tomes, Silent Stairway, Aged Spirits, Halfling Herbs]
+
+230 - Dan takes 0 damage.
+
+231 - Dan is forced to discard [Silent Stairway].
+
+232 - Alice chooses to take a stack of 3 cards:[The Emerald Gauntlets, Empty Storerooms, Pearls]
+
+233 - Alice takes 0 damage.
+
+234 - Alice is forced to discard [Empty Storerooms].
+
+235 - Bob chooses to take a stack of 4 cards:[Minor Relics, Amber, Lesser Mana Crystals, Survivalist Traps]
+
+236 - Bob takes 2 damage.
+
+237 - Bob is forced to discard [].
+
+238 - Carol chooses to take a stack of 4 cards:[Silver Bars, Luminant Flare, Echoing Shaft, Silent Stairway]
+
+239 - Carol takes 0 damage.
+
+240 - Carol is forced to discard [Echoing Shaft, Silent Stairway].
+
+241 - Dan chooses to take a stack of 4 cards:[Looted Tavern, Magic Resistance Potion, Curious Statuary, Crude Reagents]
+
+242 - Dan takes 0 damage.
+
+243 - Dan is forced to discard [Looted Tavern].
+
+244 - Alice chooses to take a stack of 4 cards:[Mechanical Curios, Fine Wine, Sealed Airshaft, Welded Doorway]
+
+245 - Alice takes 0 damage.
+
+246 - Alice is forced to discard [Sealed Airshaft, Welded Doorway].
+
+247 - Bob chooses to take a stack of 4 cards:[Dwarven Whiskey, Opals, Minted Coins, Choking Miasma]
+
+248 - Bob takes 1 damage.
+
+249 - Bob is forced to discard [].
+
+250 - Dan is escaping the dungeon!
+
+251 - Dan takes 0 damage.
+
+252 - Dan is forced to discard [].
+
+253 - Dan takes 0 damage.
+
+254 - Dan is forced to discard [Runic Tomes].
+
+255 - Dan takes 0 damage.
+
+256 - Dan is forced to discard [Halfling Herbs].
+
+257 - Dan takes 0 damage.
+
+258 - Dan is forced to discard [Abandoned Workshops].
+
+259 - Dan takes 0 damage.
+
+260 - Dan is forced to discard [Dripping Chasm].
+
+261 - Alice is escaping the dungeon!
+
+262 - Alice takes 0 damage.
+
+263 - Alice is forced to discard [Hastily Filled Pit].
+
+264 - Alice takes 0 damage.
+
+265 - Alice is forced to discard [].
+
+266 - Alice takes 0 damage.
+
+267 - Alice is forced to discard [Dusty Rooms].
+
+268 - Alice takes 0 damage.
+
+269 - Alice is forced to discard [].
+
+270 - Alice takes 0 damage.
+
+271 - Alice is forced to discard [].
+
+272 - Alice takes 0 damage.
+
+273 - Alice is forced to discard [].
+
+274 - Bob is escaping the dungeon!
+
+275 - Bob takes 0 damage.
+
+276 - Bob is forced to discard [].
+
+277 - Bob takes 0 damage.
+
+278 - Bob is forced to discard [].
+
+279 - Bob takes 0 damage.
+
+280 - Bob is forced to discard [].
+
+281 - Bob takes 1 damage.
+
+282 - Bob is forced to discard [].
+
+283 - Bob takes 0 damage.
+
+284 - Bob is forced to discard [Minor Relics].
+
+285 - Bob takes 0 damage.
+
+286 - Bob is forced to discard [Amber].
+
+287 - Bob takes 0 damage.
+
+288 - Bob is forced to discard [Lesser Mana Crystals].
+
+289 - Bob takes 0 damage.
+
+290 - Bob is forced to discard [Dwarven Whiskey].
+
+291 - Carol is forced to take a stack of 6 cards: [Empty Storerooms, Barrel Charge, Collapsed Tunnel, Empty Crypt, Rogue Automatons, Gelatinous Polyhedra]
+
+292 - Carol used Philter of Bravery to mitigate 4 MA damage.
+
+293 - Carol takes 2 damage.
+
+294 - Carol is forced to discard [Empty Storerooms, Collapsed Tunnel, Empty Crypt].
+
+295 - Carol is escaping the dungeon!
+
+296 - Carol used Barrel Charge to mitigate 4 ST damage.
+
+297 - Carol takes 0 damage.
+
+298 - Carol is forced to discard [].
+
+299 - Carol takes 0 damage.
+
+300 - Carol is forced to discard [Porcelain].
+
+301 - Carol takes 0 damage.
+
+302 - Carol is forced to discard [Silver Bars].
+
+303 - Carol takes 0 damage.
+
+304 - Carol is forced to discard [Rubies].
+
+305 - Recovery Phase, 3rd turn.
+
+306 - Dan sells 5 items and gains 200 gold.
+
+307 - Alice sells 6 items and gains 140 gold.
+
+308 - Bob sells 8 items and gains 290 gold.
+
+309 - Carol sells 4 items and gains 160 gold.
+
+310 - The game is over.
+
+Alice is The Winner with 445 gold.
+[Medic, Engineer, Architect, Lady Minewater]
+
+Bob is Second Place with 300 gold.
+[Peon, Peon, Peon, Swordsdwarf, Accountant, Dowser, Jack of All Trades, Runecaller Svadi]
+
+Dan is Third Place with 200 gold.
+[Opportunist, Archaeologist, 'Lucky' Dhorzan]
+
+Carol is Fourth Place with 165 gold.
+[Peon, Thief, Runesmith, Ulgrim the Auctioneer]
+
+
+

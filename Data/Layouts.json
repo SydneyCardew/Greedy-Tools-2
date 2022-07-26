@@ -1,0 +1,182 @@
+{
+  "Adventurer": {
+    "height": 889,
+    "width": 635,
+    "bg_colour": [250, 250, 250],
+    "border": 50,
+    "l_height": 80,
+    "layout": [
+      "blank",
+      "centre|title|black|normal|name",
+      "blank",
+      "centre|normal|black|normal|rules 1",
+      "centre|normal|black|normal|rules 2",
+      "centre|normal|black|normal|rules 3",
+      "centre|normal|black|normal|rules 4",
+      "blank",
+      "centre|small|black|normal|loyalty",
+      "blank",
+      "centre|normal|yellow|normal|cost",
+      "bottom centre|normal|orange|normal|type",
+      "bottom left|small|black|normal|number",
+      "bottom right|normal|black|normal|game size"
+      ]
+  },
+    "Artefact": {
+    "height": 889,
+    "width": 635,
+    "bg_colour": [250, 250, 250],
+    "border": 50,
+    "l_height": 80,
+    "layout": [
+      "blank",
+      "centre|title|black|normal|name",
+      "blank",
+      "blank",
+      "blank",
+      "centre|normal|black|normal|rules 1",
+      "centre|normal|black|normal|rules 2",
+      "centre|normal|black|normal|rules 3",
+      "blank",
+      "blank",
+      "bottom centre|normal|purple|normal|type",
+      "bottom left|small|black|normal|number",
+      "bottom right|normal|black|normal|game size"
+      ]
+  },
+    "Hazard": {
+    "height": 889,
+    "width": 635,
+    "bg_colour": [250, 250, 250],
+    "border": 50,
+    "l_height": 80,
+    "layout": [
+      "blank",
+      "centre|title|black|normal|name",
+      "blank",
+      "blank",
+      "centre|normal|green|normal|rules 1",
+      "horizontal rule|black",
+      "centre|normal|blue|normal|rules 2",
+      "horizontal rule|black",
+      "centre|normal|red|normal|rules 3",
+      "blank",
+      "blank",
+      "bottom centre|normal|red|normal|type",
+      "bottom left|small|black|normal|number",
+      "bottom right|normal|black|normal|game size"
+      ]
+  },
+    "Item": {
+    "height": 889,
+    "width": 635,
+    "bg_colour": [250, 250, 250],
+    "border": 50,
+    "l_height": 80,
+    "layout": [
+      "blank",
+      "centre|title|black|normal|name",
+      "blank",
+      "blank",
+      "centre|normal|black|normal|rules 1",
+      "horizontal rule|black",
+      "centre|normal|black|inverted|rules 2",
+      "blank",
+      "blank",
+      "centre|normal|orange|normal|rules 3",
+      "centre|normal|yellow|normal|rules 4",
+      "bottom centre|normal|pink|normal|type",
+      "bottom left|small|black|normal|number",
+      "bottom right|normal|black|normal|game size"
+      ]
+  },
+    "Mission": {
+    "height": 889,
+    "width": 635,
+    "bg_colour": [250, 250, 250],
+    "border": 50,
+    "l_height": 80,
+    "layout": [
+      "blank",
+      "centre|title|black|normal|name",
+      "blank",
+      "blank",
+      "centre|normal|black|normal|rules 1",
+      "centre|normal|black|normal|rules 2",
+      "centre|normal|orange|normal|rules 3",
+      "bottom centre|normal|dark magenta|normal|type",
+      "bottom left|small|black|normal|number",
+      "bottom right|normal|black|normal|game size"
+      ]
+  },
+    "Null": {
+    "height": 889,
+    "width": 635,
+    "bg_colour": [250, 250, 250],
+    "border": 50,
+    "l_height": 100,
+    "layout": [
+      "v centre|title|black|normal|name",
+      "bottom centre|normal|black|normal|type",
+      "bottom left|small|black|normal|number",
+      "bottom right|normal|black|normal|game size"
+      ]
+  },
+    "Special": {
+    "height": 889,
+    "width": 635,
+    "bg_colour": [250, 250, 250],
+    "border": 50,
+    "l_height": 100,
+    "layout": [
+      "blank",
+      "centre|small|black|normal|name",
+      "blank",
+      "centre|title|green|normal|rules 1",
+      "horizontal rule|black",
+      "centre|title|blue|normal|rules 2",
+      "horizontal rule|black",
+      "centre|title|red|normal|rules 3",
+      "bottom centre|normal|black|normal|type",
+      "bottom left|small|black|normal|number",
+      "bottom right|normal|black|normal|game size"
+      ]
+  },
+    "Special2": {
+      "height": 889,
+      "width": 635,
+      "bg_colour": [250, 250, 250],
+      "border": 50,
+      "l_height": 100,
+      "layout": [
+        "blank",
+        "centre|small|black|normal|name",
+        "blank",
+        "centre|title|green|normal|rules 1",
+        "centre|title|blue|normal|rules 2",
+        "bottom centre|normal|black|normal|type",
+        "bottom left|small|black|normal|number",
+        "bottom right|normal|black|normal|game size"
+      ]
+    },
+    "Treasure": {
+  "height": 889,
+      "width": 635,
+      "bg_colour": [250, 250, 250],
+      "border": 50,
+      "l_height": 100,
+      "layout": [
+        "blank",
+        "centre|small|black|normal|name",
+        "blank",
+        "centre|title|green|normal|treasure 1",
+        "horizontal rule|black",
+        "centre|title|blue|normal|treasure 2",
+        "horizontal rule|black",
+        "centre|title|red|normal|treasure 3",
+        "bottom centre|normal|green|normal|type",
+        "bottom left|small|black|normal|number",
+        "bottom right|normal|black|normal|game size"
+      ]
+  }
+}
